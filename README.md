@@ -1,11 +1,5 @@
 # **🏥 AI-Powered Healthcare Report & Prescription Analyzer**
 
-**Kaggle Agents Intensive Capstone Project Submission**
-
-* **Track:** Agents for Good  
-* **Goal:** Democratizing access to medical record understanding through autonomous multi-agent systems.
-
----
 
 ## **📖 Overview**
 
